@@ -1,0 +1,9 @@
+# build files
+build/*
+dist/*
+env/
+*.egg-info/
+.eggs/*
+
+# vs code
+.DS_Store
